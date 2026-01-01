@@ -1,6 +1,6 @@
 # Bioinformatics RNA-seq project
 This repository contains a small, self-directed analysis of simulated RNA-seq–like count data.  
-The aim is to practise working with gene expression matrices and basic exploratory analysis.
+The aim is to practise working with gene expression matrices and exploratory RNA-seq analysis as part of my independent preparation for graduate-level bioinformatics study.
 
 ### RNA-seq–like data simulation
 
